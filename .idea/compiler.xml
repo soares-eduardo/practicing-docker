@@ -7,15 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="InventoryMs" />
+        <module name="SalesMs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="InventoryMs" target="1.8" />
+      <module name="SalesMs" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="InventoryMs" options="-parameters" />
+      <module name="SalesMs" options="-parameters" />
     </option>
   </component>
 </project>
