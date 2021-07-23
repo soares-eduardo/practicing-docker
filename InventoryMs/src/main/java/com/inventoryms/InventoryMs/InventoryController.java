@@ -1,4 +1,4 @@
-package com.inventoryms.InventoryMs.interfaces;
+package com.inventoryms.InventoryMs;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
