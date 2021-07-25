@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/InventoryMs/pom.xml" />
         <option value="$PROJECT_DIR$/SalesMs/pom.xml" />
+        <option value="$PROJECT_DIR$/GatewayMS/pom.xml" />
       </list>
     </option>
   </component>
